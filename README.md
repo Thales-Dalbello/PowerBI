@@ -1,4 +1,4 @@
-# PowerBI
+# PowerBI - Acompanhamento Vendas
 Projetos de Power BI
 Dashboard de Acompanhamento de Vendas - Power BI
 
