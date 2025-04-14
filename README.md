@@ -3,6 +3,9 @@ Projetos de Power BI
 Dashboard de Acompanhamento de Vendas - Power BI
 
 Este projeto apresenta um Dashboard de Acompanhamento de Vendas desenvolvido no Power BI, utilizando dados de um arquivo Excel (bd_vendas.xlsx). O objetivo do dashboard é fornecer uma visão clara e detalhada sobre o desempenho de vendas da empresa, permitindo que os gestores tomem decisões estratégicas com base nos indicadores apresentados.
+Segue link para acesso ao relatorio.
+https://app.powerbi.com/view?r=eyJrIjoiNTY2NDgyNmEtYmU4MS00ZjlmLWJkNmMtNWRjNDFhNDllMWFkIiwidCI6Ijg1ZGU1OTA5LTZlOGItNGEwYy1iYTIzLWYwMzYyYzcyZDc3NiJ9
+
 🔹 Visão Geral do Dashboard
 
 O painel foi construído para fornecer insights sobre o faturamento, número de pedidos e desempenho das lojas, com destaque para os seguintes componentes:
